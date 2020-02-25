@@ -10,4 +10,4 @@ Switch 洛克人ZERO&ZX 双英雄合集 金手指</br>
 Switch ROCKMAN ZERO&ZX Collection SXOS Cheats</br>
 
 TID:010025C00D410000</br>
-BID:</br>
+BID:2a38895c5e732182</br>
