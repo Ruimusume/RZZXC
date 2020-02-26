@@ -8,6 +8,7 @@ by 露易娘 Ruimusume</br>
 Switch ロックマン ゼロ＆ゼクス ダブルヒーローコレクション Cheats</br>
 Switch 洛克人ZERO&ZX 双英雄合集 金手指</br>
 Switch ROCKMAN ZERO&ZX Collection SXOS Cheats</br>
+Switch Mega Man Zero ZX Legacy Collection SXOS Cheats</br>
 
 TID:010025C00D410000</br>
 BID:2a38895c5e732182</br>
