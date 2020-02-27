@@ -32,6 +32,7 @@ BID:2a38895c5e732182</br>
 [ZERO 获得全精灵]</br>
 [ZERO 全精灵无限使用]</br>
 [ZERO BOSS HP]</br>
+[ZERO 最终BOSS第二形态HP]</br>
 [ZERO 列车关卡倒计时不减]</br>
 
 [ZERO2 Zx9]</br>
