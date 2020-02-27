@@ -78,9 +78,14 @@ BID:2a38895c5e732182</br>
 [ZERO4 HP]</br>
 [ZERO4 闪烁无敌]</br>
 [ZERO4 E水晶MAX]</br>
+[ZERO4 主武器直接放最大蓄力Y]</br>
+[ZERO4 副武器直接放最大蓄力L]</br>
 [ZERO4 E罐x4]</br>
 [ZERO4 全EX技能]</br>
 [ZERO4 浮空跳 B键]</br>
+[ZERO4 全道具素材]</br>
+[ZERO4 全装备]</br>
+[ZERO4 BOSS HP]</br>
 
 [ZX HP]</br>
 [ZX 闪烁无敌]</br>
