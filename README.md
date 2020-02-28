@@ -17,7 +17,7 @@ BID:2a38895c5e732182</br>
 
 [ZERO Zx9]</br>
 [ZERO LEVELS(通关结算或大转场生效)]</br>
-[ZERO HP]</br>
+[ZERO HP MAX]</br>
 [ZERO 闪烁无敌]</br>
 [ZERO E水晶MAX]</br>
 [ZERO 主武器快速蓄力]</br>
@@ -41,14 +41,15 @@ BID:2a38895c5e732182</br>
 
 [ZERO2 Zx9]</br>
 [ZERO2 LEVELS]</br>
-[ZERO2 HP]</br>
+[ZERO2 HP MAX]</br>
+[ZERO2 HP上限MAX]</br>
 [ZERO2 闪烁无敌]</br>
-[ZERO2 E水晶MAX]</br>
-[ZERO2 E罐x4]</br>
-[ZERO2 E罐满能量]</br>
 [ZERO2 主武器快速蓄力]</br>
 [ZERO2 副武器快速蓄力]</br>
+[ZERO2 E水晶MAX]</br>
 [ZERO2 全头盔]</br>
+[ZERO2 E罐x4]</br>
+[ZERO2 E罐满能量]</br>
 [ZERO2 获得全武器]</br>
 [ZERO2 开启UI获得全属性]</br>
 [ZERO2 全EX技能]</br>
@@ -59,10 +60,13 @@ BID:2a38895c5e732182</br>
 [ZERO2 浮空跳 B键]</br>
 [ZERO2 BOSS HP]</br>
 [ZERO2 获得全精灵]</br>
+[ZERO2 全精灵无限使用]</br>
+[ZERO2 全精灵已使用]</br>
+[ZERO2 全精灵等级MAX]</br>
 
 [ZERO3 Zx9]</br>
 [ZERO3 LEVELS]</br>
-[ZERO3 HP]</br>
+[ZERO3 HP MAX]</br>
 [ZERO3 闪烁无敌]</br>
 [ZERO3 E水晶MAX]</br>
 [ZERO3 E罐x4]</br>
@@ -80,7 +84,7 @@ BID:2a38895c5e732182</br>
 
 [ZERO4 Zx9]</br>
 [ZERO4 LEVELS]</br>
-[ZERO4 HP]</br>
+[ZERO4 HP MAX]</br>
 [ZERO4 闪烁无敌]</br>
 [ZERO4 E水晶MAX]</br>
 [ZERO4 主武器直接放最大蓄力Y]</br>
@@ -92,10 +96,11 @@ BID:2a38895c5e732182</br>
 [ZERO4 全装备]</br>
 [ZERO4 BOSS HP]</br>
 
-[ZX HP]</br>
+[ZX HP MAX]</br>
+[ZX E水晶MAX]</br>
 [ZX 闪烁无敌]</br>
 [ZX 浮空跳 B键]</br>
 
-[ZXA HP]</br>
-[ZXA 闪烁无敌]</br>
-[ZXA 浮空跳 B键]</br>
+[ZXA+8bit HP MAX]</br>
+[ZXA+8bit 闪烁无敌]</br>
+[ZXA+8bit 浮空跳 B键]</br>
