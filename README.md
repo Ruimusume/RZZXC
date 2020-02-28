@@ -23,16 +23,20 @@ BID:2a38895c5e732182</br>
 [ZERO 主武器快速蓄力]</br>
 [ZERO 副武器快速蓄力]</br>
 [ZERO 浮空跳 B键]</br>
+[ZERO E罐x4]</br>
+[ZERO E罐满能量]</br>
+[ZERO 获得全武器]</br>
+[ZERO 获得全属性]</br>
 [ZERO 枪等级MAX]</br>
 [ZERO 光剑等级MAX]</br>
 [ZERO 长枪等级MAX]</br>
 [ZERO 光盾等级MAX]</br>
-[ZERO 获得全武器]</br>
-[ZERO 获得全属性]</br>
+[ZERO BOSS HP]</br>
+[ZERO 获得全精灵（不含稀有）]</br>
 [ZERO 获得全精灵]</br>
 [ZERO 全精灵无限使用]</br>
-[ZERO BOSS HP]</br>
-[ZERO 最终BOSS第二形态HP]</br>
+[全精灵等级MAX（不稀有）]</br>
+[全精灵等级MAX]</br>
 [ZERO 列车关卡倒计时不减]</br>
 
 [ZERO2 Zx9]</br>
