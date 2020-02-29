@@ -42,7 +42,6 @@ BID:2a38895c5e732182</br>
 [ZERO2 Zx9]</br>
 [ZERO2 LEVELS]</br>
 [ZERO2 HP MAX]</br>
-[ZERO2 HP上限MAX]</br>
 [ZERO2 闪烁无敌]</br>
 [ZERO2 主武器快速蓄力]</br>
 [ZERO2 副武器快速蓄力]</br>
@@ -60,8 +59,6 @@ BID:2a38895c5e732182</br>
 [ZERO2 浮空跳 B键]</br>
 [ZERO2 BOSS HP]</br>
 [ZERO2 获得全精灵]</br>
-[ZERO2 全精灵无限使用]</br>
-[ZERO2 全精灵已使用]</br>
 [ZERO2 全精灵等级MAX]</br>
 
 [ZERO3 Zx9]</br>
