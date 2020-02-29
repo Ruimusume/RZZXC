@@ -75,8 +75,9 @@ BID:2a38895c5e732182</br>
 [ZERO3 副武器直接放最大蓄力L]</br>
 [ZERO3 浮空跳 B键]</br>
 [ZERO3 BOSS HP]</br>
-[ZERO3 全磁片获得已观看]</br>
-[ZERO3 精灵初始位置]</br>
+[ZERO3 全磁盘获得未查阅]</br>
+[ZERO3 全磁盘获得已查阅]</br>
+[ZERO3 获得全精灵]</br>
 
 [ZERO4 Zx9]</br>
 [ZERO4 LEVELS]</br>
