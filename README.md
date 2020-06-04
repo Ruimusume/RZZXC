@@ -1,4 +1,4 @@
-# Switch ロックマン ゼロ＆ゼクス ダブルヒーローコレクション v1.0.3 SXOS Cheats
+# Switch ロックマン ゼロ＆ゼクス ダブルヒーローコレクション v1.0.4 SXOS Cheats
 by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
@@ -11,7 +11,7 @@ Switch Mega Man Zero ZX Legacy Collection SXOS Cheats</br>
 TID:010025C00D410000</br>
 BID:2a38895c5e732182</br>
 
-[RZZXC v1.0.3 by露易娘]
+[RZZXC v1.0.4 by露易娘]
 
 [ZERO Zx9]</br>
 [ZERO LEVELS(通关结算或大转场生效)]</br>
