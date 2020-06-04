@@ -9,7 +9,8 @@ Switch ROCKMAN ZERO&ZX Collection SXOS Cheats</br>
 Switch Mega Man Zero ZX Legacy Collection SXOS Cheats</br>
 
 TID:010025C00D410000</br>
-BID:2a38895c5e732182</br>
+1.0.3 BID:2a38895c5e732182</br>
+1.0.4 BID:48a7577f4e740fed</br>
 
 [RZZXC v1.0.4 by露易娘]
 
