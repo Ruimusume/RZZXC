@@ -200,7 +200,6 @@ TID:010025C00D410000</br>
 [ZERO4 任务复活次数分数15p]</br>
 [ZERO4 任务天气分数10P]</br>
 [ZERO4 精灵分数正常]</br>
-[ZERO4 游戏时间清零]</br>
 
 [ZX HP MAX]</br>
 [ZX E水晶MAX]</br>
@@ -210,3 +209,6 @@ TID:010025C00D410000</br>
 [ZXA+8bit HP MAX]</br>
 [ZXA+8bit 闪烁无敌]</br>
 [ZXA+8bit 浮空跳 B键]</br>
+
+[ZCHASER 时间归零 无法保存录像(ZL)]</br>
+[ZCHASER 电脑无语]</br>
