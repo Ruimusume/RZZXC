@@ -33,15 +33,15 @@ TID:010025C00D410000</br>
 [ZERO 光剑等级MAX]</br>
 [ZERO 长枪等级MAX]</br>
 [ZERO 光盾等级MAX]</br>
-[ZERO BOSS HP]</br>
+[ZERO BOSS 秒杀]</br>
 [ZERO 获得全精灵（不含稀有）]</br>
 [ZERO 获得全精灵]</br>
 [ZERO 全精灵等级MAX（不含稀有）]</br>
 [ZERO 全精灵等级MAX]</br>
 [ZERO 任务倒计时类维持3分钟不减]</br>
 [ZERO 救援的人HP不减（レジスタンス）]</br>
-[ZERO 困难模式解锁]</br>
-[ZERO 终极模式解锁]</br>
+[ZERO 困难模式解锁（ハード）]</br>
+[ZERO 终极模式解锁（アルティメット）]</br>
 [ZERO 游戏静止(ZL)]</br>
 [ZERO 任务合计总分100]</br>
 [ZERO 任务完成100%]</br>
@@ -79,13 +79,13 @@ TID:010025C00D410000</br>
 [ZERO2 光盾等级MAX]</br>
 [ZERO2 浮空跳 B键]</br>
 [ZERO2 无限冲刺（影响冲刺爬墙距离慎用）]</br>
-[ZERO2 BOSS HP]</br>
+[ZERO2 BOSS 秒杀]</br>
 [ZERO2 获得全精灵]</br>
 [ZERO2 全精灵等级MAX]</br>
 [ZERO2 ハヤテ&マスター 代号]</br>
 [ZERO2 倒计时直接归零(ZR)]</br>
-[ZERO2 困难模式解锁]</br>
-[ZERO2 插画模式解锁]</br>
+[ZERO2 困难模式解锁（ハード）]</br>
+[ZERO2 插画模式解锁（ギヤラリー）]</br>
 [ZERO2 游戏静止(ZL)]</br>
 [ZERO2 任务合计总分100]</br>
 [ZERO2 任务完成100%]</br>
@@ -118,7 +118,7 @@ TID:010025C00D410000</br>
 [ZERO3 浮空跳 B键]</br>
 [ZERO3 无限冲刺]</br>
 [ZERO3 多段跳（需装备双跳腿部）]</br>
-[ZERO3 BOSS HP]</br>
+[ZERO3 BOSS 秒杀]</br>
 [ZERO3 全磁盘获得未查阅]</br>
 [ZERO3 全磁盘获得已查阅]</br>
 [ZERO3 获得全精灵]</br>
@@ -133,6 +133,13 @@ TID:010025C00D410000</br>
 [ZERO3 解锁小游戏 ファーブニル]</br>
 [ZERO3 解锁小游戏 レヴィアタン]</br>
 [ZERO3 解锁小游戏 ファントム]</br>
+[ZERO3 小游戏修改缓存清理,菜单前按下(X)]</br>
+[ZERO3 小游戏生命复位3(ZL)]</br>
+[ZERO3 小游戏ゼロ蜜蜂速度增加(ZR)]</br>
+[ZERO3 小游戏シエル失误清零(ZL)]</br>
+[ZERO3 小游戏レヴィアタン倒计时复位(ZL)]</br>
+[ZERO3 小游戏ファーブニル暂停出现敌人(ZL按住)]</br>
+[ZERO3 小游戏ファントム生命复位3(ZL)]</br>
 [ZERO3 任务合计总分100]</br>
 [ZERO3 任务完成100%]</br>
 [ZERO3 任务通关时间0]</br>
@@ -157,17 +164,22 @@ TID:010025C00D410000</br>
 [ZERO4 副武器直接放最大蓄力L]</br>
 [ZERO4 E罐x4满能量]</br>
 [ZERO4 全EX技能]</br>
+[ZERO4 直接可用EX技能昇焔牙+墜磐撃]</br>
 [ZERO4 浮空跳 B键]</br>
 [ZERO4 无限冲刺]</br>
 [ZERO4 多段跳（需装备双跳腿部）]</br>
 [ZERO4 全零件51种x9]</br>
 [ZERO4 全装甲]</br>
+[ZERO4 已装备废品装甲]</br>
 [ZERO4 精灵直接满级]</br>
 [ZERO4 精灵ナース系使用等级7（护士系）]</br>
 [ZERO4 精灵アニマル系等级7（动物系）]</br>
 [ZERO4 精灵ハッカー系等级7（黑客系）]</br>
 [ZERO4 关闭使用精灵]</br>
-[ZERO4 BOSS HP]</br>
+[ZERO4 BOSS&部分中BOSS 秒杀(ZL)]</br>
+[ZERO4 中BOSS三鸟类 秒杀(ZR)]</br>
+[ZERO4 冰狼中BOSS 秒杀(ZR)]</br>
+[ZERO4 火娥关热量不加]</br>
 [ZERO4 章鱼关倒计时不减]</br>
 [ZERO4 终关BOSS第二形态倒计时不减]</br>
 [ZERO4 全图鉴解锁]</br>
@@ -188,6 +200,7 @@ TID:010025C00D410000</br>
 [ZERO4 任务复活次数分数15p]</br>
 [ZERO4 任务天气分数10P]</br>
 [ZERO4 精灵分数正常]</br>
+[ZERO4 游戏时间清零]</br>
 
 [ZX HP MAX]</br>
 [ZX E水晶MAX]</br>
