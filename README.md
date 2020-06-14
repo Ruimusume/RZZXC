@@ -65,6 +65,7 @@ TID:010025C00D410000</br>
 [ZERO2 闪烁无敌]</br>
 [ZERO2 主武器快速蓄力]</br>
 [ZERO2 副武器快速蓄力]</br>
+[ZERO2 枪无限连射]</br>
 [ZERO2 E水晶MAX]</br>
 [ZERO2 全头盔]</br>
 [ZERO2 E罐x4]</br>
