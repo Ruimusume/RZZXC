@@ -1,12 +1,12 @@
-# Switch ロックマン ゼロ＆ゼクス ダブルヒーローコレクション v1.0.4 SXOS Cheats
+# Switch ロックマン ゼロ＆ゼクス ダブルヒーローコレクション v1.0.4 Cheats
 by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
 
 Switch ロックマン ゼロ＆ゼクス ダブルヒーローコレクション Cheats チートコード</br>
 Switch 洛克人ZERO&ZX 双英雄合集 金手指</br>
-Switch ROCKMAN ZERO&ZX Collection SXOS Cheats</br>
-Switch Mega Man Zero ZX Legacy Collection SXOS Cheats</br>
+Switch ROCKMAN ZERO&ZX Collection Cheats</br>
+Switch Mega Man Zero ZX Legacy Collection Cheats</br>
 
 TID:010025C00D410000</br>
 1.0.3 BID:2a38895c5e732182</br>
