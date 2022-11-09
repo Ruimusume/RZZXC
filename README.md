@@ -12,6 +12,8 @@ TID:010025C00D410000</br>
 1.0.3 BID:2a38895c5e732182</br>
 1.0.4 BID:48a7577f4e740fed</br>
 
+<img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw19bc6753/products/D70010000016863/heroBanner/407d0e65d27a3296bdc69b619950aa4ac5803c3b48c6153622d2f9905702e869.jpg"/>
+
 [RZZXC v1.0.4 by露易娘]
 
 [ZERO Zx9]</br>
